@@ -1,2 +1,5 @@
 # EAS
 ETCH-A-SKETCH
+
+
+JS, HTML5 and CSS3
